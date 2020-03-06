@@ -1,0 +1,14 @@
+{
+  "name": "boinc.public.dappnode.eth",
+  "version": "0.0.1",
+  "description": "BOINC is an open-source software platform for computing using volunteered resources.",
+  "avatar": "",
+  "type": "service",
+  "dependencies": {},
+  "author": "vdo",
+  "categories": ["Developer tools"],
+  "links": {
+    "homepage": "https://boinc.berkeley.edu"
+  },
+  "license": "LGPL-3.0"
+}
