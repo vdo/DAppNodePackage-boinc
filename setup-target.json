@@ -1,0 +1,18 @@
+{
+  "project_url": {
+    "type": "environment",
+    "name": "PROJECT_URL"
+  },
+  "api_key": {
+    "type": "environment",
+    "name": "API_KEY"
+  },
+  "rpc_password": {
+    "type": "environment",
+    "name": "RPC_PASSWORD"
+  },
+  "cmdline_options": {
+    "type": "environment",
+    "name": "CMDLINE_OPTIONS"
+  }
+}

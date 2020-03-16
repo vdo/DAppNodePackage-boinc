@@ -1,0 +1,3 @@
+{
+  "ui:order": ["project_url", "api_key", "rpc_password", "cmdline_options"]
+}

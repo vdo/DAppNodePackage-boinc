@@ -1,0 +1,26 @@
+{
+  "description": "DAppNode Package for [Linux BOINC Client](https://boinc.berkeley.edu)",
+  "type": "object",
+  "properties": {
+    "project_url": {
+      "type": "string",
+      "title": "Project URL",
+      "description": "The URL of the BOINC project to attach."
+    },
+    "api_key": {
+      "type": "string",
+      "title": "API_KEY",
+      "description": "Your API (weak) key provided by the project. For Rosetta, join [here](http://boinc.bakerlab.org/rosetta/)"
+    },
+    "rpc_password": {
+      "type": "string",
+      "title": "RPC_PASSWORD",
+      "description": "The RPC password (for remote GUI manager)."
+    },
+    "cmdline_options": {
+      "type": "string",
+      "title": "CMDLINE_OPTIONS",
+      "description": "Extra parameters for the client."
+    }
+  }
+}

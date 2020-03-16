@@ -4,9 +4,11 @@ services:
     build: ./build
     image: 'boinc.public.dappnode.eth:0.0.1'
     environment:
-      - BOINC_GUI_RPC_PASSWORD=dappnode
+      - 'PROJECT_URL=http://boinc.bakerlab.org/rosetta/'
+      - API_KEY=
+      - RPC_PASSWORD=dappnode
       - BOINC_REMOTE_HOST=0.0.0.0
-      - BOINC_CMD_LINE_OPTIONS=--allow_remote_gui_rpc
+      - CMDLINE_OPTIONS=--allow_remote_gui_rpc
     volumes:
       - 'data:/var/lib/boinc'
     restart: always
