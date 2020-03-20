@@ -15,4 +15,6 @@ Once logged in, you can copy your project key (look for Weak account key) from [
 
 ### Start BOINC
 
-Install and start BOINC in dappnode with the link: http://my.dappnode/?#/installer/%2Fipfs%2FQmS97TUtJsACi8zQcSavPiA6yc2XNixQZ1PQLddW4mLmSX
+Install and start BOINC in dappnode with the link: 
+http://my.dappnode/#/installer/boinc.public.dappnode.eth
+
