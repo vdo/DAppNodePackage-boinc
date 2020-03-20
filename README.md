@@ -11,7 +11,7 @@ For Rosetta, you can create an account [here](https://boinc.bakerlab.org/rosetta
 
 ### Get your project key
 
-Once logged in, you can copy your project key from [here](https://boinc.bakerlab.org/rosetta/weak_auth.php).
+Once logged in, you can copy your project key (look for Weak account key) from [here](https://boinc.bakerlab.org/rosetta/weak_auth.php).
 
 ### Start BOINC
 
